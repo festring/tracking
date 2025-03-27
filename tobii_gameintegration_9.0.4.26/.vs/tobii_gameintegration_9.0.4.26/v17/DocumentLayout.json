@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\tobii_gameintegration_9.0.4.26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\tobii_gameintegration_9.0.4.26\\include\\tobii_gameintegration_dynamic_loader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\tobii_gameintegration_dynamic_loader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\tobii_gameintegration_9.0.4.26\\samples\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:samples\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\tobii_gameintegration_9.0.4.26\\.net\\TobiiGameIntegrationApi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.net\\TobiiGameIntegrationApi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\tobii_gameintegration_9.0.4.26\\lib\\tobii_gameintegration_x64.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\tobii_gameintegration_x64.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\tobii_gameintegration_9.0.4.26\\lib\\tobii_gameintegration_x64.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 ! )$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\tobii_gameintegration_x64.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 ! )$  \u0022     "
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tobii_gameintegration_dynamic_loader.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tobii_gameintegration_9.0.4.26\\include\\tobii_gameintegration_dynamic_loader.cpp",
+              "RelativeDocumentMoniker": "include\\tobii_gameintegration_dynamic_loader.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tobii_gameintegration_9.0.4.26\\include\\tobii_gameintegration_dynamic_loader.cpp",
+              "RelativeToolTip": "include\\tobii_gameintegration_dynamic_loader.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T05:53:01.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tobii_gameintegration_9.0.4.26\\samples\\Main.cpp",
+              "RelativeDocumentMoniker": "samples\\Main.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tobii_gameintegration_9.0.4.26\\samples\\Main.cpp",
+              "RelativeToolTip": "samples\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T05:52:20.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tobii_gameintegration_x64.dll - 1 [\uC601\uC5B4(\uBBF8\uAD6D)] - Version",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tobii_gameintegration_9.0.4.26\\lib\\tobii_gameintegration_x64.dll",
+              "RelativeDocumentMoniker": "lib\\tobii_gameintegration_x64.dll",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tobii_gameintegration_9.0.4.26\\lib\\tobii_gameintegration_x64.dll - 1 [\uC601\uC5B4(\uBBF8\uAD6D)] - Version",
+              "RelativeToolTip": "lib\\tobii_gameintegration_x64.dll - 1 [\uC601\uC5B4(\uBBF8\uAD6D)] - Version",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-10-25T05:46:53.653Z",
+              "EditorCaption": " - 1 [\uC601\uC5B4(\uBBF8\uAD6D)] - Version"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tobii_gameintegration_x64.dll",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tobii_gameintegration_9.0.4.26\\lib\\tobii_gameintegration_x64.dll",
+              "RelativeDocumentMoniker": "lib\\tobii_gameintegration_x64.dll",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tobii_gameintegration_9.0.4.26\\lib\\tobii_gameintegration_x64.dll",
+              "RelativeToolTip": "lib\\tobii_gameintegration_x64.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-10-25T05:46:42.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TobiiGameIntegrationApi.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tobii_gameintegration_9.0.4.26\\.net\\TobiiGameIntegrationApi.cs",
+              "RelativeDocumentMoniker": ".net\\TobiiGameIntegrationApi.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tobii_gameintegration_9.0.4.26\\.net\\TobiiGameIntegrationApi.cs",
+              "RelativeToolTip": ".net\\TobiiGameIntegrationApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:46:21.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
